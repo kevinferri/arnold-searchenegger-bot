@@ -1,0 +1,25 @@
+{
+  "name": "percolate-bot",
+  "version": "1.0.0",
+  "description": "A bot to retrieve documents from Percolate",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "find ./test -name '*.test.js' | xargs mocha -R spec",
+    "dev": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/appboy/percolate-bot"
+  },
+  "author": "Appboy Inc",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0",
+    "slackbots": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
