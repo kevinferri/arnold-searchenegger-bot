@@ -1,5 +1,5 @@
 # arnold-searchenegger-bot
-A work in progress
+A work in progress slack bot
 
 ## Running The Bot
 
