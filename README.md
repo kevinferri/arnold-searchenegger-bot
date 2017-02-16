@@ -4,7 +4,7 @@ A work in progress slack bot
 ## Running The Bot
 
 ```
-git clone https://github.com/kevinferri/percolate-bot
+git clone https://github.com/kevinferri/arnold-searchenegger-bot
 cd arnold-searchenegger-bot
 ```
 Add config.js to the root of the project with the following:
