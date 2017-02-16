@@ -1,7 +1,7 @@
 {
   "name": "percolate-bot",
   "version": "1.0.0",
-  "description": "A bot to retrieve documents from Percolate",
+  "description": "A bot to retrieve documents from various systems",
   "main": "./src/main.js",
   "scripts": {
     "start": "node ./src/main.js",
